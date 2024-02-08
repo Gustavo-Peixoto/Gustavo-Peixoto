@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gustavo Peixoto 😁
+## Bem-vindo(a) ao perfil do Gustavo Peixoto 
 
  <div>
    <a href="https://github.com/Gustavo-Peixoto">
@@ -7,7 +7,7 @@
 
 </div>
 <div style="display: inline_block"><br/>
- <p>Linguagens estudadas em breve 😁</p>
+ <p>Linguagens estudadas em breve </p>
   <!--<img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
 </div>
