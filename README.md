@@ -135,4 +135,4 @@ Desenvolvedor em formação | Estudante do Técnico em Informática na ETE FMC (
 
 </p>
 
-![snake gif](https://github.com/SEU_USUARIO/Gustavo-Peixoto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Gustavo-Peixoto/Gustavo-Peixoto/blob/output/github-contribution-grid-snake.svg)
