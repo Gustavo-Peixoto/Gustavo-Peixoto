@@ -18,7 +18,7 @@ Desenvolvedor em formação | Estudante do Técnico em Informática na ETE FMC (
 ### 🏆 Prêmios
 
  -Vencedor do Prêmio de Inovação no evento Projete 2024, com o desenvolvimento e treinamento de uma IA de visão computacional focada na resolução de desafios propostos pelo CemigLab.<br/>
- -Primeiro lugar no Start Engenharia Inatel de computaçao/software regional do ano 2025
+ -Primeiro lugar no Start Engenharia Inatel de computaçao/software regional do ano 2025. <a link=https://inatel.br/start-inatel/start-engenharia-computacao-software> Sobre a competição <a/>
  
 ---
 
