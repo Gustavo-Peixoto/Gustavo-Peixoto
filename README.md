@@ -2,7 +2,7 @@
 
 **`Cursando Técnico em ênfase a Desenvolvimento de Sistemas`**
 
-Desenvolvedor em formação | Estudanto técnico em elotrônica especialização em desenvolvimento na ETE FMC (Santa Rita do Sapucaí – MG) | Apaixonado por tecnologia e sempre em busca de evoluir na programação.<br/>
+Desenvolvedor em formação | Estudante do ensino técnico em eletrônica com especialização em desenvolvimento na ETE FMC (Santa Rita do Sapucaí – MG) | Apaixonado por tecnologia e sempre em busca de evoluir na programação.<br/>
 
 <p align="left">
     <a href="https://www.instagram.com/gustv_cmd7/">
